@@ -1,2 +1,17 @@
-# My-First-Project
-This code takes the list of students grades from the text file called "Students Grades" and puts it in the output line by line.
+# Lab: Grade Reader
+
+This program reads student names and scores and outputs it 
+
+## How to Run
+1. Open the text file calles "Students.txt" and add your students name and their scores. Once you're done save the file.
+2. Go into your ide and run the code.
+3. See all your students name and scores in the output.
+
+## Example Output
+Student Grades:
+John: 85
+Sara: 92
+Mark: 78
+
+## Author
+Victor O'Donnell
